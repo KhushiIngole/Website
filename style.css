@@ -1,0 +1,57 @@
+body{
+    background-color: #FFF8DC;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    color: darkred;
+    text-align: center;
+    background-color: gold;
+    padding: 10px;
+}
+
+h2{
+    color: darkblue;
+    text-align: center;
+}
+
+a{
+    color: white;
+    background-color: darkblue;
+    text-decoration: none;
+    padding: 8px;
+}
+
+table{
+    width: 80%;
+    background-color: white;
+}
+
+th{
+    background-color: darkred;
+    color: white;
+}
+
+th,td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+img{
+    border: 3px solid darkred;
+}
+
+marquee{
+    color: red;
+    font-size: 20px;
+    background-color: yellow;
+}
+
+ul{
+    font-size: 18px;
+}
+
+hr{
+    color: darkred;
+}
